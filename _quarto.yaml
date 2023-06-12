@@ -14,6 +14,7 @@ book:
   page-navigation: true
 
   chapters:
+  - index.qmd
   - chapter.qmd
  
 format:
@@ -21,7 +22,6 @@ format:
     theme: bootstrap
     toc: true
     html-math-method: katex
-
 
 title: ""
 
