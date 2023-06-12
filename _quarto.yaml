@@ -25,4 +25,4 @@ format:
 
 title: ""
 
-biblio-style: apalike
+csl: _contrib/apa.csl
