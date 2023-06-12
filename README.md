@@ -1,5 +1,4 @@
-# chapter-template
-Template for Chapter Authors
+# Introduction Chapter
 
 [![CC NA SA 4.0 Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -26,7 +25,7 @@ Optional files and resources:
 - Figures and images are organised in the folder `figures`.
 - Data files are organised in the folder `data`.
 
-## Chapter requirements
+## Chapter requirements
 
 A chapter has to be between 2500 and 5000 Words (approx. 5-10 pages). The chapter is required to be written in English and should be written in a way that it is understandable for a audience that is currently studying for a BSc., MSc. or at PhD students. 
 
@@ -41,4 +40,3 @@ The last line of the chapter must be `## References {-}` and must be followed by
 All feedback is communicated via GitHub issues. Please check the issues of your chapter regularly and respond to the feedback. If you have questions regarding the feedback, please use the comments in the issues to ask your questions.
 
 If you responded to the feedback and consider one issue complete please close the issue. 
-
