@@ -22,6 +22,7 @@ One starting point was the development of a MOOC on multi-disciplinary research 
 A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds.
 A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds [kalz_assessing_2014].
 
+
 ```{python}
 import random
 import matplotlib.pyplot as plt
@@ -54,6 +55,7 @@ plot_array_lines(random_array)
 
 
 ```
+
 
 
 ```{mermaid}
