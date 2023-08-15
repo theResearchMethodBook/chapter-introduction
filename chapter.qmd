@@ -14,12 +14,47 @@ execute:
 
 ## Why this book ? {#intro}
 
-There are plenty of good books on research methods for different disciplines, so why another one? 
+There are plenty of good books on research methods for different disciplines, so why another one?
+
 
 One starting point was the development of a MOOC on multi-disciplinary research methods for engineers in 2020. With this MOOC we tried to give a simplified introduction to research methods on which participants could build. The MOOC targeted to give participants a good understanding of where to start and what are the decisions you have to make in a research project on human-computer systems in general. Nevertheless when looking for reference materials on which learners could build we did not find open content chapters to give a simple but comprehensive overview on many methods and research instruments. The aim of this book is to fill this gap and become and online repository with simple introductions to important decisions in a research project and primers for research methods in the different phases of the research project.
 
 A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds.
 A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds [kalz_assessing_2014].
+
+```{python}
+import random
+import matplotlib.pyplot as plt
+
+def generate_random_array(rows, cols):
+    random_array = [[random.randint(1, 100) for _ in range(cols)] for _ in range(rows)]
+    return random_array
+
+def plot_array_lines(array):
+    rows = len(array)
+    cols = len(array[0])
+    
+    plt.figure(figsize=(8, 6))
+
+    for i in range(rows):
+        plt.plot(range(1, cols+1), array[i], label=f'Row {i+1}')
+
+    plt.xlabel('Column')
+    plt.ylabel('Value')
+    plt.title('Line Chart of Array Rows')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+
+rows = 4
+cols = 4
+random_array = generate_random_array(rows, cols)
+plot_array_lines(random_array)
+
+
+
+```
+
 
 ```{mermaid}
 graph LR

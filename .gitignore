@@ -56,3 +56,6 @@ _book
 
 
 /.quarto/
+
+/.luarc.json
+chapter.ipynb
