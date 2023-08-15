@@ -1,6 +1,5 @@
 ---
 bibliography: references.bib
-
 title: Introduction
 
 author: # one line per author
@@ -19,42 +18,41 @@ There are plenty of good books on research methods for different disciplines, so
 
 One starting point was the development of a MOOC on multi-disciplinary research methods for engineers in 2020. With this MOOC we tried to give a simplified introduction to research methods on which participants could build. The MOOC targeted to give participants a good understanding of where to start and what are the decisions you have to make in a research project on human-computer systems in general. Nevertheless when looking for reference materials on which learners could build we did not find open content chapters to give a simple but comprehensive overview on many methods and research instruments. The aim of this book is to fill this gap and become and online repository with simple introductions to important decisions in a research project and primers for research methods in the different phases of the research project.
 
-A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds.
-A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds [kalz_assessing_2014].
+A second issue was the long ongoing discussion of the TEL community on how to develop a flexible approach and strategy for doing Technology Enhanced Learning Research coming from different starting points and disciplinary backgrounds [@kalz2014].
+
+In this book we look at the research process in different phases with different objectives and these can of course overlap and also loop in different designs and implementation in research projects dependent on their objectives and approach. Nevertheless in the discussion with the editorial team we identifed several key questions and parts we consider essential in a good research project which are mainly the following:
 
 
-```{python}
-import random
-import matplotlib.pyplot as plt
+- Foundations
 
-def generate_random_array(rows, cols):
-    random_array = [[random.randint(1, 100) for _ in range(cols)] for _ in range(rows)]
-    return random_array
+  - How to use this book?
 
-def plot_array_lines(array):
-    rows = len(array)
-    cols = len(array[0])
-    
-    plt.figure(figsize=(8, 6))
+- Developing a strategy
+  - Problems and research questions?
+  - Theoretical Modelling and Conceptual Frameworks (MOOC)
+  - Choosing the appropriate method (MOOC)
+  - Mixed Method Designs (MOOC)
 
-    for i in range(rows):
-        plt.plot(range(1, cols+1), array[i], label=f'Row {i+1}')
+- Understanding previous work
+  - Literature review
+  - Meta Analysis
+  - Simulations
 
-    plt.xlabel('Column')
-    plt.ylabel('Value')
-    plt.title('Line Chart of Array Rows')
-    plt.legend()
-    plt.grid(True)
-    plt.show()
+- Engaging with stakeholders
+  - Prototyping
+  - Focus groups
+  - Group concept mapping
 
-rows = 4
-cols = 4
-random_array = generate_random_array(rows, cols)
-plot_array_lines(random_array)
+- Formative methods
+  - Task performance studies
+  - Piloting
 
+- Summative methods
+  - Quasi experimental studies
+  - Lab experiments
+  - Field studies
 
-
-```
+- Research project cases and short descriptions
 
 
 
@@ -81,6 +79,5 @@ The focus of this book is on research methods that are used to understand human-
 ## How to use this book?
 
 
-<!--
+
 ## References {-}
--->
