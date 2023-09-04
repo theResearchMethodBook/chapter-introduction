@@ -23,11 +23,16 @@ A second issue was the long ongoing discussion of the TEL community on how to de
 In this book we look at the research process in different phases with different objectives and these can of course overlap and also loop in different designs and implementation in research projects dependent on their objectives and approach. Nevertheless in the discussion with the editorial team we identifed several key questions and parts we consider essential in a good research project which are mainly the following:
 
 
-- Foundations
+## How to use this book?
 
-  - How to use this book?
+  This book and its chapters cna be seen as ac primer for research methods. On the one hand it aims to give you a high quality overview on specific methods and how to perform and implement them as also what their contribution in a bigger research design can be. So if you are new to a method or you consider using it in your research design you should defintely scan the relevant chapter and get an overview of the specific method as also the necessary relevant knowledge and competences. Furthermore even if you are an experienced research we love to get feedback to the chapters and enhance them and add online discussions.
 
-- Developing a strategy
+## Overview of the research process and methods introduced
+
+### Developing a strategy
+
+When starting up a new research project the mostv essntial issues is to clearly identify your research questions and challenges you want to focus on. In the best case you have a clear problem and challenge with which you start and can identify the courses of the problem and the different components that play a role.
+
   - Problems and research questions?
   - Theoretical Modelling and Conceptual Frameworks (MOOC)
   - Choosing the appropriate method (MOOC)
