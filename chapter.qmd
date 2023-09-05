@@ -33,37 +33,45 @@ In this book we look at the research process in different phases with different 
 
 When starting up a new research project the mostv essntial issues is to clearly identify your research questions and challenges you want to focus on. In the best case you have a clear problem and challenge with which you start and can identify the courses of the problem and the different components that play a role.
 
-  - Problems and research questions?
+   Problems and research questions?
 
   What is the difference between a problem, a challenge, a research question and a hypothesis? This chapter will introduce different types of research questions how to develop them and how to relate them to underlying problems, theories and data collection.
 
-  - Theoretical Modelling and Conceptual Frameworks (MOOC)
+   Theoretical Modelling and Conceptual Frameworks (MOOC)
 
   You conceptual model is the basis for all your research work, it defines dependent and independent variables and their relations. It specifies the main components of your research questions and gives an idea how to operationalise them as also what performance is done by participants in your research and what you will measure dependent from the different treatments.
 
-  - Choosing the appropriate method (MOOC)
+   Choosing the appropriate method (MOOC)
 
 Different methods can help you to answer different parts of your research questions and will contribute with different insights and eveidence to a bigger research questions. In this chapter you will learn to differentiate between methods, their potential contribution as also their shortcomings.
  
 
-  - Mixed Method Designs (MOOC)
+   Mixed Method Designs (MOOC)
    Most research questions in interdisciplinary fields combine different methods from explorative and scoping research, qualitative methods and quantiative methods. This chapter will give you a primer on how to combine different methods and for what purpose.
 
-- Understanding previous work
-  - Literature review
+### Understanding previous work
+
+To understand previous work and what other researchers have already found and identifed as relevant evidence for your research journey. There are different ways to look at existing research and different ways how to use the published data. As one of the most prominent approaches literature reviews collect a body of publications or evidence and structure or evaluate it according to given schemes or research questions. Nevertheless literature reviews come in different flavours and are used for different purposes and also can develop different research results.
+
+TODO [ ] insert definition of meta analysis and simulations
+
+Literature reviews
+There are different versions and purposes of literature reviews a good over view of the different types is given in [@pare_synthesizing_2015]. This actually differentiates 9 different types of literature reviews and describes these according to ...
+
+
   - Meta Analysis
   - Simulations
 
-- Engaging with stakeholders
+### Engaging with stakeholders
   - Prototyping
   - Focus groups
   - Group concept mapping
 
-- Formative methods
+### Formative methods
   - Task performance studies
   - Piloting
 
-- Summative methods
+### Summative methods
   - Quasi experimental studies
   - Lab experiments
   - Field studies
