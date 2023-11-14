@@ -89,7 +89,7 @@ The focus of this book is on research methods that are used to understand human-
 
 
 
-## References {-}
+
 
 
 
@@ -126,3 +126,4 @@ DiagrammeR("
 ")
 ```
 
+## References {-}
